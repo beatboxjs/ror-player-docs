@@ -36,4 +36,4 @@ You can add RoR Player as an app to your smartphone/tablet directly from the web
 
 You can download RoR Player as a standalone HTML file. This file can be opened in any web browser and makes it possible to open and use the player even when you have no internet connection.
 
-To download the HTML file, click on the <fa icon="info-circle"></fa> info icon on the top right of the screen and then <btn><fa icon="download"></fa> Download RoR Player</btn>.
+To download the HTML file, click on the <fa icon="info-circle"></fa> info icon on the top right of the screen and then <btn variant="item"><fa icon="download"></fa> Download RoR Player</btn>.
