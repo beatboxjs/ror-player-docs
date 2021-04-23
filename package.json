@@ -1,0 +1,25 @@
+{
+  "name": "ror-player-docs",
+  "description": "",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev-server": "vuepress dev src",
+    "build": "vuepress build src",
+    "clean": "rimraf dist",
+    "check": "vuepress check-md src"
+  },
+  "devDependencies": {
+    "rimraf": "^3.0.2",
+    "sass": "^1.32.11",
+    "sass-loader": "^10.1.1",
+    "vuepress": "^1.5.3",
+    "vuepress-plugin-check-md": "^0.0.2"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.35",
+    "@fortawesome/free-solid-svg-icons": "^5.15.3",
+    "@fortawesome/vue-fontawesome": "^2.0.2",
+    "bootstrap": "^4.6.0"
+  }
+}
