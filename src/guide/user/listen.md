@@ -4,7 +4,7 @@ Every RoR tune has its own page inside the RoR Player. When you open the Player 
 
 Each tune page starts with some general information about the tune. Some tune pages contain an education video from [RoR Tube](https://tube.rhythms-of-resistance.org/), where you can see how the tune is played and maestrated. Further down under “Sounds”, you have the option to listen to (computer-generated) samples of the tune and its breaks.
 
-The first item under “Sounds” is an example song for the tune. Clicking the <fa icon="play-circle"></fa> play icon on the right will play the tune with all of its breaks in between, so that you can get a general impression how everything sounds in combination. (For defining a custom combination in which the tune and its breaks should be played, have a look at the [compose](./compose) documentation.)
+The first item under “Sounds” is an example song for the tune. Clicking the <fa icon="play-circle"></fa> play icon on the right will play the tune with all of its breaks in between, so that you can get a general impression how everything sounds in combination. (For defining a custom combination in which the tune and its breaks should be played, have a look at the [compose](./compose.md) documentation.)
 
 Below the example song there is a box for the tune itself and each of its breaks. Clicking the <fa icon="play-circle"></fa> play icon will just play this tune/break.
 

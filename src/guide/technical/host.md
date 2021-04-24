@@ -2,7 +2,7 @@
 
 RoR Player is a serverless TypeScript application whose build consists of one static HTML file plus a few other static files (such as favicons and a service worker for offline access). This makes it easy to host it yourself. RoR Player is available under the [AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.en.html) license.
 
-Perhaps you want to host a modified version with custom tunes, custom sounds or other customisations. In that case, have a look at the [configuration](./config).
+Perhaps you want to host a modified version with custom tunes, custom sounds or other customisations. In that case, have a look at the [configuration](./config.md).
 
 
 ## Standalone

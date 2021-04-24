@@ -9,7 +9,7 @@ Note that the MP3 is generated on the spot in the browser, which is why it can t
 
 ## Export custom songs
 
-You can export and download a [composed song](./compose) as MP3 or WAV. MP3 files take much less space on your hard disk, but take longer to create.
+You can export and download a [composed song](./compose.md) as MP3 or WAV. MP3 files take much less space on your hard disk, but take longer to create.
 
 To export the current song, click on <btn><fa icon="cog">Tools</fa></btn> and then <btn variant="item"><fa icon="file-export"></fa> Export MP3</btn> or <btn variant="item"><fa icon="file-export"></fa> Export WAV</btn>.
 

@@ -2,7 +2,7 @@
 
 On the top of the screen, there is a tab navigation with the tabs “Listen” and “Compose”. “Listen” is the default mode and provides a simple interface to listen to all the available tunes. “Compose” mode provides an advanced interface where you can modify existing tunes, create new ones and export and share them with others.
 
-When you compose songs or tunes or modify existing ones, all of your changes are saved in your browser, so they will be still there next time you open RoR Player, but others will not be able to see them. You can use the [share](./share) functionality to create backups of your tunes or to share them with others.
+When you compose songs or tunes or modify existing ones, all of your changes are saved in your browser, so they will be still there next time you open RoR Player, but others will not be able to see them. You can use the [share](./share.md) functionality to create backups of your tunes or to share them with others.
 
 The following terminology is used:
 * A **Tune** within RoR Player is simply a collection of breaks. A tune itself does not have any notes. However, tunes normally contain a *break* called “Tune” that contains the notes of the main groove of the tune.
@@ -38,7 +38,7 @@ To add breaks to the tune, click the <fa icon="plus"></fa> plus icon underneath 
 
 ## History
 
-When you create new tunes or songs or make changes to existing ones, these changes are saved in your browser. This means that next time you open RoR Player, your custom tunes and songs will still be there. The <btn><fa icon="clock"></fa> History</btn> button on the top right of the screen opens a menu where you can go back to previous states. Not every single change that you make creates a new item in the history, but when there is at least an hour in between two changes that you make, a new historic state is added to the list. When opening a [shared link](./share), a new history item is also created so that you can go back to your own custom tunes/songs.
+When you create new tunes or songs or make changes to existing ones, these changes are saved in your browser. This means that next time you open RoR Player, your custom tunes and songs will still be there. The <btn><fa icon="clock"></fa> History</btn> button on the top right of the screen opens a menu where you can go back to previous states. Not every single change that you make creates a new item in the history, but when there is at least an hour in between two changes that you make, a new historic state is added to the list. When opening a [shared link](./share.md), a new history item is also created so that you can go back to your own custom tunes/songs.
 
 You can switch back and forth between different historic states. When you open a historic state and start to make changes to it, it will be added as a new state to the history.
 
