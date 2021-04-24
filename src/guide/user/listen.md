@@ -8,6 +8,8 @@ The first item under “Sounds” is an example song for the tune. Clicking the 
 
 Below the example song there is a box for the tune itself and each of its breaks. Clicking the <fa icon="play-circle"></fa> play icon will just play this tune/break.
 
+**Note:** On iOS (iPhone/iPad), [silent mode](https://support.apple.com/en-us/HT208353) has to be turned off in order for RoR Player to be able to play any sounds.
+
 ## Playback settings
 
 Clicking on the <btn><fa icon="sliders-h"></fa></btn> playback settings icon to the right of the “Sounds” heading opens a menu where you can make adjustments to how the sounds are played. The following options are available:
