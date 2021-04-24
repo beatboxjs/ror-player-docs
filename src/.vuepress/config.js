@@ -15,6 +15,7 @@ module.exports = {
     docsDir: '',
     editLinkText: '',
     lastUpdated: false,
+    logo: './favicon.svg',
     nav: [
       {
         text: 'Guide',

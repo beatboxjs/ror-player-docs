@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
+heroImage: ./favicon.svg
 tagline:
 actionText: Guide →
 actionLink: /guide/user/
