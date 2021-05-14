@@ -2,7 +2,7 @@
 
 ## Offline usage
 
-When you open RoR Player for the first time, your browser will save it on your device and make it available for offline usage. This means that even when you are offline, you can open and use the player by opening [https://player.rythms-of-resistance.org/](https://player.rythms-of-resistance.org/) in your browser.
+When you open RoR Player for the first time, your browser will save it on your device and make it available for offline usage. This means that even when you are offline, you can open and use the player by opening [https://player.rhythms-of-resistance.org/](https://player.rhythms-of-resistance.org/) in your browser.
 
 ## RoR Player app
 
