@@ -6,7 +6,9 @@ When you open RoR Player for the first time, your browser will save it on your d
 
 ## RoR Player app
 
-You can add RoR Player as an app to your smartphone/tablet directly from the web browser. The necessary steps depend on which browser you use:
+You can add RoR Player as an app to your smartphone/tablet directly from the web browser. The necessary steps depend on which browser you use.
+
+**Note:** On iOS (iPhone/iPad), Apple does not allow other browsers than Safari to be installed. What looks like other browsers (like Chrome or Firefox) on iOS is just Safari with a slightly different look because of this. To add RoR Player as an app on iOS, open RoR Player in Safari and then follow the steps for Safari below.
 
 ### Chrome
 
