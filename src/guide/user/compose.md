@@ -2,7 +2,7 @@
 
 On the top of the screen, there is a tab navigation with the tabs “Listen” and “Compose”. “Listen” is the default mode and provides a simple interface to listen to all the available tunes. “Compose” mode provides an advanced interface where you can modify existing tunes, create new ones and export and share them with others.
 
-When you compose songs or tunes or modify existing ones, all of your changes are saved in your browser, so they will be still there next time you open RoR Player, but others will not be able to see them. You can use the [share](./share.md) functionality to create backups of your tunes or to share them with others.
+When you compose songs or tunes or modify existing ones, all of your changes are saved in your browser, so they will be still there next time you open RoR Player, but others will not be able to see them. When you open the compose screen for the first time, your browser might ask you for permission to store data in the persistent storage. Accepting this will make sure that your songs and tunes will not get lost when your disk space is running low or when you clear your browsing history. You can use the [share](./share.md) functionality to create backups of your tunes or to share them with others.
 
 The following terminology is used:
 * A **Tune** within RoR Player is simply a collection of breaks. A tune itself does not have any notes. However, tunes normally contain a *break* called “Tune” that contains the notes of the main groove of the tune.
