@@ -3,6 +3,7 @@
   "description": "",
   "version": "1.0.0",
   "private": true,
+  "type": "module",
   "scripts": {
     "dev-server": "vuepress dev src",
     "build": "vuepress build src",
@@ -10,17 +11,19 @@
     "check": "vuepress check-md src"
   },
   "devDependencies": {
+    "@vuepress/plugin-register-components": "next",
+    "@vuepress/plugin-search": "next",
     "rimraf": "^3.0.2",
-    "sass": "^1.32.11",
-    "sass-loader": "^10.1.1",
-    "vuepress": "^1.5.3",
+    "sass": "^1.56.1",
+    "sass-loader": "^13.2.0",
+    "vuepress": "next",
     "vuepress-plugin-check-md": "^0.0.2"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "^1.2.35",
-    "@fortawesome/free-solid-svg-icons": "^5.15.3",
-    "@fortawesome/vue-fontawesome": "^2.0.2",
-    "bootstrap": "^4.6.0"
+    "@fortawesome/fontawesome-svg-core": "^6.2.0",
+    "@fortawesome/free-solid-svg-icons": "^6.2.0",
+    "@fortawesome/vue-fontawesome": "latest-3",
+    "bootstrap": "^4.6.2"
   },
   "packageManager": "yarn@3.2.4"
 }

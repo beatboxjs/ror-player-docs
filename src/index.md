@@ -1,7 +1,10 @@
 ---
 home: true
 heroImage: ./favicon.svg
-tagline:
-actionText: Guide →
-actionLink: /guide/user/
+tagline: null
+actions:
+    -
+        text: Guide →
+        link: "/guide/user/"
+        type: primary
 ---

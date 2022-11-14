@@ -3,7 +3,7 @@
 		<slot></slot>
 	</span>
 </template>
-<script>
+<script lang="ts">
 	export default {
 		props: {
 			variant: { type: String, default: "secondary" }
