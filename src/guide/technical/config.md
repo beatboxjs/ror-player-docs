@@ -4,7 +4,7 @@ When building RoR Player to host it yourself, you can adjust the configuration, 
 
 ## Tunes
 
-The tunes are configured in the file [src/defaultTunes.ts](https://github.com/beatboxjs/ror-player/blob/master/src/defaultTunes.ts). You can modify and remove existing tunes or add new tunes. Each tune can have the following parameters:
+The tunes are configured in the file [src/defaultTunes.ts](https://github.com/beatboxjs/ror-player/blob/main/src/defaultTunes.ts). You can modify and remove existing tunes or add new tunes. Each tune can have the following parameters:
 
 * `displayName` (optional): Can be optionally specified to show a different tune name than its key. For example, a tune configured as `"Bhangra": { displayName: "Bhaṅgṛā" }` will be persisted as `Bhangra` but shown as `Bhaṅgṛā`.
 * `categories`: Which tune categories this tune should appear it (see [find tunes](../user/listen.md#find-tunes)).
@@ -22,11 +22,11 @@ The tunes are configured in the file [src/defaultTunes.ts](https://github.com/be
 
 ## Audio samples
 
-The audio samples can be found and modified in [assets/audio/](https://github.com/beatboxjs/ror-player/tree/master/assets/audio). Each instrument has a 2-character identifier, and each stroke type is identified by one character. The existing instruments and strokes are configured as [parameters](#parameters).
+The audio samples can be found and modified in [assets/audio/](https://github.com/beatboxjs/ror-player/tree/main/assets/audio). Each instrument has a 2-character identifier, and each stroke type is identified by one character. The existing instruments and strokes are configured as [parameters](#parameters).
 
 ## Parameters
 
-In [src/config.ts](https://github.com/beatboxjs/ror-player/blob/master/src/config.ts), all the parameters of RoR Player are configured. The following parameters are supported:
+In [src/config.ts](https://github.com/beatboxjs/ror-player/blob/main/src/config.ts), all the parameters of RoR Player are configured. The following parameters are supported:
 * `appName`: By default, this is “RoR Player”. It is used in various places in the UI. To change it, modify the `<title>` in `index.html`.
 * `instruments`: The available instruments. Each instrument has to have a 2-character identifier, a display name and a list of available stroke identifiers. The available strokes define what strokes the user can select for this instrument when composing a tune. When changing the available instrument identifiers, you also have to adjust the `instrumentKeys` parameter and the `Instrument` type in the beginning of the file.
 * `strokes`: Maps the available stroke identifiers to their display name. The stroke identifier has to be one character and is used to identify the stroke in the [audio samples](#audio-samples) and [tunes](#tunes). The display name is what is actually shown to the user in the notes of a tune/break. A stroke identifier cannot be `+` or `@`.
