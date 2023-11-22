@@ -22,7 +22,7 @@ The tunes are configured in the file [src/defaultTunes.ts](https://github.com/be
 
 ## Audio samples
 
-The audio samples can be found and modified in [assets/audio/](https://github.com/beatboxjs/ror-player/tree/main/assets/audio). Each instrument has a 2-character identifier, and each stroke type is identified by one character. The existing instruments and strokes are configured as [parameters](#parameters).
+The audio samples can be found and modified in [assets/audio/](https://github.com/beatboxjs/ror-player/tree/main/assets/audio). Each instrument has a 2-character identifier, and each stroke type is identified by one character. In the file name, the stroke character is represented by its hex char code. The existing instruments and strokes are configured as [parameters](#parameters).
 
 ## Parameters
 
