@@ -48,7 +48,7 @@
 			@include gradient-y($start-color: $btn-color, $end-color: darken($btn-color, 12%));
 			border-color: $border;
 			@include box-shadow($shadow);
-			color: color-yiq($btn-color);
+			color: color-contrast($btn-color);
 		}
 	}
 

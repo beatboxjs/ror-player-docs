@@ -7,6 +7,7 @@ import { defaultTheme } from '@vuepress/theme-default';
 import searchPlugin from '@vuepress/plugin-search';
 import registerComponentsPlugin from '@vuepress/plugin-register-components';
 import nprogressPlugin from '@vuepress/plugin-nprogress';
+import { viteBundler } from '@vuepress/bundler-vite';
 
 export default defineUserConfig({
 	title: 'RoR Player',
@@ -17,6 +18,8 @@ export default defineUserConfig({
 		['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
 	],
 	dest: `${__dirname}/../../dist`,
+	bundler: viteBundler(),
+
 	theme: defaultTheme({
 		repo: '',
 		editLink: false,
