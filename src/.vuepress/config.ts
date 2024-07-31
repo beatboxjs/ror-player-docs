@@ -49,6 +49,13 @@ export default defineUserConfig({
 					]
 				},
 				{
+					text: 'Contribution guide',
+					collapsible: false,
+					children: [
+						"/guide/contribution/tunes"
+					]
+				},
+				{
 					text: 'Technical guide',
 					collapsible: false,
 					children: [
