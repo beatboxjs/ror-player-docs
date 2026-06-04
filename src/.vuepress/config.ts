@@ -42,6 +42,7 @@ export default defineUserConfig({
 					children: [
 						'/guide/user/',
 						"/guide/user/listen",
+						"/guide/user/practice",
 						"/guide/user/download",
 						"/guide/user/compose",
 						"/guide/user/share",
