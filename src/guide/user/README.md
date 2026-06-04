@@ -4,6 +4,7 @@
 
 With RoR Player you can:
 * [Listen to the RoR tunes](./listen.md).
+* [Practise your timing](./practice.md) by playing one instrument's part on a real drum while RoR Player scores you.
 * [Download RoR Player](./download.md) to use it offline.
 * [Compose](./compose.md) your own tunes and breaks.
 * [Share](./share.md) your composed tunes and breaks, and import tunes and breaks that others have shared.
